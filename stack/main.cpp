@@ -29,6 +29,7 @@ public:
     }
 };
 
+
 int main() {
     // Creating a stack of integers
     Stack<int> myStack;
